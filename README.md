@@ -2,7 +2,7 @@
   <h1 align="center">MUSYCA</h1>
 
   <p align="center">
-    Your own music listening habits database!<br><br>
+    Your own music listening database!<br><br>
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/crdpa/musyca?style=for-the-badge">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/crdpa/musyca?style=for-the-badge">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/crdpa/musyca?style=for-the-badge"><br>
@@ -11,7 +11,7 @@
 
 ## ABOUT
 
-Musyca is a python application that uses SQLite to store your music listening habits. I wrote for myself to use with [cmus music player](https://cmus.github.io/), but it is capable of interacting with any music player that can output the title song, artist name and album name.
+Musyca is a python application that uses SQLite to store your music listening habits. I wrote Musyca to use with [cmus music player](https://cmus.github.io/), but it can be used with any music player that can output the title song, artist name and album name.
 
 Usage:
     musyca.py --artist "artist name" --album "album name" --title "song title"
