@@ -16,7 +16,7 @@ Musyca is a python application that uses SQLite to store your music listening ha
 Usage:
     musyca.py --artist "artist name" --album "album name" --title "song title"
 
-The application only creates and populate the database with song title, album name, artist name and date played. It does NOT show any information. You have to interact with the database for that.
+The application only creates and populate the database with song title, album name, artist name and date. It does NOT show any information. You have to interact with the database for that.
 
 I'm still debating if displaying formatted information should be the aim of this application. I think creating other projects (like a web page) to interact with the database is a better solution.
 
