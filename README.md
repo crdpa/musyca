@@ -1,10 +1,10 @@
 <div align="center">
-  <h3 align="center">MUSYCA</h3>
+  <h1 align="center">MUSYCA</h1>
 
   <p align="center">
-    Your own music listening habits database!<br>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/crdpa/musyca?style=for-the-badge"><br>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/crdpa/musyca?style=for-the-badge"><br>
+    Your own music listening habits database!<br><br>
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/crdpa/musyca?style=for-the-badge">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/crdpa/musyca?style=for-the-badge">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/crdpa/musyca?style=for-the-badge"><br>
   </p>
 </div>
