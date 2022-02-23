@@ -105,7 +105,7 @@ def main():
                                       id INTEGER PRIMARY KEY,
                                       name varchar(100) NOT NULL,
                                       artist INTEGER NOT NULL,
-                                      FOREIGN KEY (artist) REFERENCES artist(id)
+                                      FOREIGN KEY (artist) REFERENCES artists(id)
                                       UNIQUE (artist)
                                   );"""
 
@@ -136,5 +136,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
