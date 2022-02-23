@@ -7,10 +7,9 @@
 </div>
 
 ----
-
-[GitHub contributors](https://img.shields.io/github/contributors/crdpa/musyca?style=for-the-badge)
-[GitHub stars](https://img.shields.io/github/stars/crdpa/musyca?style=for-the-badge)
-[GitHub issues](https://img.shields.io/github/issues/crdpa/musyca?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/crdpa/musyca?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/crdpa/musyca?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/crdpa/musyca?style=for-the-badge)
 
 ## ABOUT
 
