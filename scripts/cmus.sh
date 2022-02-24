@@ -47,9 +47,11 @@ prev_song=$(cat "$cur_song_file")
 if [ "$status" == ">" ]; then
 
     # if it is the same, but you started the song from the beginning (it is not resuming), register
-    if [ "$artist - $title" == "$prev_song" ] && [ "$prev_state" != "|" ]; then
-        register_song
-        exit 0
+    if [ "$artist - $title" == "$prev_song" ]; then
+        if [ "$prev_state" != "|" ]; then
+            register_song
+            exit 0
+        fi
 
     # if it is a different song, register
     else
