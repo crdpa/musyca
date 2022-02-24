@@ -106,7 +106,7 @@ def main():
                                       name varchar(100) NOT NULL,
                                       artist INTEGER NOT NULL,
                                       FOREIGN KEY (artist) REFERENCES artists(id)
-                                      UNIQUE (artist)
+                                      UNIQUE (name)
                                   );"""
 
     sql_create_artists_table = """ CREATE TABLE IF NOT EXISTS artists (
