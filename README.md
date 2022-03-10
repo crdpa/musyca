@@ -11,7 +11,7 @@
 
 ## ABOUT
 
-Musyca is a python application that uses SQLite to store your music listening habits. I wrote Musyca to use with [cmus music player](https://cmus.github.io/), but it can be used with any music player that can output the title song, artist name and album name.
+Musyca is a python application that uses SQLite to store your music listening habits. I wrote Musyca to use with [cmus music player](https://cmus.github.io/), but it can be used with any music player that can output the song title, artist name and album name.
 
 Usage:
     musyca.py --artist "artist name" --album "album name" --title "song title"
