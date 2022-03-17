@@ -18,8 +18,12 @@ Usage:
 
 The application only creates and populate the database with song title, album name, artist name and date. It does NOT show any information. You have to interact with the database for that.
 
-I'm still debating if displaying formatted information should be the aim of this application. I think creating other projects (like a web page) to interact with the database is a better solution.
+You can use [Kolekti](https://github.com/crdpa/kolekti) to check the top played songs, albums and artists.
 
 ## SCRIPTS
 
 In the scripts folder there is a bash script made for cmus. Put the path to it in cmus "status_display_program" and it should work. Don't forget to edit the script to point to the "musyca" executable.
+
+## LINKS
+
+ - [Kolekti](https://github.com/crdpa/kolekti): interact with Musyca's database.
